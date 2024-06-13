@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem-vindo ao meu perfil!!! 👋
 
-<!--
-**RaHerrera40/RaHerrera40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rafael Herrera
 
-Here are some ideas to get you started:
+- Sou Professor de Física e de Tecnologia e Robótica.
+- Trabalho na E. E. Vereador Euclides Miranda, em Sumaré - SP.
+- Estou desenvolvendo atividades utilizando a linguagem em blocos com o Scratch e a linguagem JavaScript.
+- Utilizo este espaço para minha organização e compartilhamento dos projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## Você pode me contatar:
+
+📫 rafaelherrera@prof.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/cwoN93BINOMAAAAC/so-good-wink.gif)
